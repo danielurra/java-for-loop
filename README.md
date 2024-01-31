@@ -7,5 +7,6 @@ Start typing, select from menu and hit TAB<br>
 Your IDE will help you to write the for-loop needed structure (boiler plate code)<br>
 ![for-loop](https://github.com/danielurra/java-for-loop/assets/51704179/f67abd41-3915-443c-b04e-262d3d036b19)<br>
 # Intellij Idea - For loop
+IntelliJ Idea will leave the cursor just where it has to be for you to complete the for loop code.<br>
 <img width="391" alt="for-loop-intellij" src="https://github.com/danielurra/java-for-loop/assets/51704179/68829686-c7d5-4a6a-ac93-9e9706c8a9cb"><br>
 
