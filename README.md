@@ -13,6 +13,8 @@ IntelliJ Idea will leave the cursor just where it has to be for you to complete 
 <img width="1074" alt="two-for-loops-executed" src="https://github.com/danielurra/java-for-loop/assets/51704179/ba0d078e-afa6-4475-8982-66c89247a25f"><br>
 
 # Grab the code
+Pay attention to the **Integer.parseInt()** piece of code that is needed to change the data type from `text` (scanner default)<br>
+to the number data type `Integer`.<br>
 ```java
 package package_java_for_loop;
 
