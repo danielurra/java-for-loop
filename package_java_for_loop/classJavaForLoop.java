@@ -12,7 +12,7 @@ public class classJavaForLoop {
             eachNumber[i] = numberFromScanner;
         }
         for (int i = 0; i < 5; i++) {
-            System.out.println("Number " + i + ": " + eachNumber[i]);
+            System.out.println("Position #" + i + ": " + eachNumber[i]);
         }
 
     }
