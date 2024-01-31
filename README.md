@@ -10,7 +10,8 @@ Your IDE will help you to write the for-loop needed structure (boiler plate code
 IntelliJ Idea will leave the cursor just where it has to be for you to complete the for loop code.<br>
 <img width="391" alt="for-loop-intellij" src="https://github.com/danielurra/java-for-loop/assets/51704179/68829686-c7d5-4a6a-ac93-9e9706c8a9cb"><br>
 # Two "For" loops are actually needed
-<img width="792" alt="for-loop-executed" src="https://github.com/danielurra/java-for-loop/assets/51704179/3d8f6946-e157-40c6-be54-1e5547456891"><br>
+<img width="1074" alt="two-for-loops-executed" src="https://github.com/danielurra/java-for-loop/assets/51704179/ba0d078e-afa6-4475-8982-66c89247a25f"><br>
+
 # Grab the code
 ```java
 package package_java_for_loop;
@@ -27,11 +28,10 @@ public class classJavaForLoop {
             eachNumber[i] = numberFromScanner;
         }
         for (int i = 0; i < 5; i++) {
-            System.out.println("Number " + i + ": " + eachNumber[i]);
+            System.out.println("Position #" + i + ": " + eachNumber[i]);
         }
 
     }
 }
-
 ```
 
