@@ -1,4 +1,5 @@
 # Java For-loop
+![java-for-loop](https://github.com/danielurra/java-for-loop/assets/51704179/f805ca28-a442-491f-b872-4f7c9dd96f0e)<br>
 For loop being used along with scanner to get x amount of numbers from the user via console
 # Create iteration loop
 Start typing, select from menu and hit TAB<br>
