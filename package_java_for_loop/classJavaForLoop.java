@@ -11,6 +11,7 @@ public class classJavaForLoop {
             int numberFromScanner = Integer.parseInt(dannyScan.nextLine());
             eachNumber[i] = numberFromScanner;
         }
+        // test Dany
         for (int i = 0; i < 5; i++) {
             System.out.println("Position #" + i + ": " + eachNumber[i]);
         }
