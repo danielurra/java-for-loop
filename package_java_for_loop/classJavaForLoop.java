@@ -11,10 +11,14 @@ public class classJavaForLoop {
             int numberFromScanner = Integer.parseInt(dannyScan.nextLine());
             eachNumber[i] = numberFromScanner;
         }
-        // test Dany
-        for (int i = 0; i < 5; i++) {
-            System.out.println("Position #" + i + ": " + eachNumber[i]);
-        }
+        // Set currentLargestNumber to zero
+        int currentLargestNumber = 0;
 
+        for (int i = 0; i < 5; i++) {
+            if (currentLargestNumber < eachNumber[i]) {
+                currentLargestNumber = eachNumber[i];
+            }
+        }
+        System.out.println("This is the largest number of the array: " + currentLargestNumber);
     }
 }
