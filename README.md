@@ -9,7 +9,7 @@ Your IDE will help you to write the for-loop needed structure (boiler plate code
 # Intellij Idea - For loop
 IntelliJ Idea will leave the cursor just where it has to be for you to complete the for loop code.<br>
 <img width="391" alt="for-loop-intellij" src="https://github.com/danielurra/java-for-loop/assets/51704179/68829686-c7d5-4a6a-ac93-9e9706c8a9cb"><br>
-# Two "For" loops are actually needed
+# Identifying the largest number of the array
 <img width="1103" alt="branch-largest-number-of-array" src="https://github.com/danielurra/java-for-loop/assets/51704179/09aa0f19-3b0c-4339-aac7-48d4cc3ee4ac"><br>
 # Grab the code
 Pay attention to the **Integer.parseInt()** piece of code that is needed to change the data type from `text` (scanner default)<br>
